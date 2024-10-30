@@ -1,0 +1,12 @@
+{
+  "name": "bi1.1_cw",
+  "version": "1.0.0",
+  "description": "Backend Integration 1.1 CW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
